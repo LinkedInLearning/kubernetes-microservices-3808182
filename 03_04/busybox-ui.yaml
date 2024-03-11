@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: busybox-ui
+  namespace: frontend
+spec:
+  containers:
+    - name: busybox
+      image: busybox:glibc
+      command:
+        - sleep
+        - "3600"
+      imagePullPolicy: IfNotPresent
+  restartPolicy: Always

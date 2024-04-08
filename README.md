@@ -1,7 +1,50 @@
 # Kubernetes: Microservices
 This is the repository for the LinkedIn Learning course `Kubernetes: Microservices`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Kubernetes: Microservices][lil-thumbnail-url] 
+
+## Instructions
+
+This repository does not have any branches. Download the entire repository and you get the exercise files in their final state.
+
+Each folder corresponds with a movie with an exercise file. The naming convention is `CHAPTER#_MOVIE#`. As an example, the folder named `02_03` corresponds to the second chapter and the third video in that chapter.
+
+
+## Installing
+
+1. Clone this repository into your local machine using the terminal (Mac), CMD or PowerShell (Windows), or a GUI tool like SourceTree. 
+    - You can also download a ZIP file from Github and extract the contents to your machine.
+1. Place the exercise files on your computer when you can easily access them. 
+1. To use these exercise files, you must have the following installed:
+   - A code editor ([VS Code](https://code.visualstudio.com/) is recommended)
+   - [Docker](https://docs.docker.com/engine/install/)
+   - [minikube](https://minikube.sigs.k8s.io/docs/start/)
+
+
+### Instructor
+
+**Kim Schlesinger**
+
+_Tech Educator_
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kim-schlesinger).
+
+[lil-course-url]: https://www.linkedin.com/learning/javascript-essential-training
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2832077/2832077-1610728160487-16x9.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -31,4 +74,4 @@ To resolve this issue:
 
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
-
+ -->

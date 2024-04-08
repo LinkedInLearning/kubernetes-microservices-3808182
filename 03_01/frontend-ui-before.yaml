@@ -29,7 +29,7 @@ spec:
         - containerPort: 4173
         env:
         - name: PUBLIC_K8S_SERVICE_URL
-          value: "10.244.211.133:3000"
+          value: value: "http://learning-service.default.svc.cluster.local"
 ---
 apiVersion: v1
 kind: Service

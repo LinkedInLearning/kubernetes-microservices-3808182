@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: kimschles/frontend:1.0.9
+        image: kimschles/frontend:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 4173

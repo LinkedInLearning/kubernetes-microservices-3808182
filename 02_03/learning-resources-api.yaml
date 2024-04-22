@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: learning-resources-container
-        image: kimschles/learning-resources:0.0.8
+        image: kimschles/learning-resources:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 3000

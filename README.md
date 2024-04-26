@@ -3,6 +3,8 @@ This is the repository for the LinkedIn Learning course `Kubernetes: Microservic
 
 ![Kubernetes: Microservices][lil-thumbnail-url] 
 
+In this intermediate level course, technical curriculum developer Kim Schlesinger teaches you about Kubernetes networking and configuring service-to-service communication, which is critical for microservices in Kubernetes. Gain an understanding of the history of containers and Kubernetes. Find out how the platform was designed for microservices architectures. Get hands-on experience deploying three microservices to a cluster running locally, and then explore different ways of enabling service-to-service communication. Plus, explore advanced Kubernetes networking topics.
+
 ## Instructions
 
 This repository does not have any branches. Download the entire repository and you get the exercise files in their final state.
@@ -29,8 +31,8 @@ _Tech Educator_
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kim-schlesinger).
 
-[lil-course-url]: https://www.linkedin.com/learning/javascript-essential-training
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2832077/2832077-1610728160487-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/kubernetes-microservices-23787657
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHj6_u-_V4BiA/learning-public-crop_675_1200/0/1713982644820?e=2147483647&v=beta&t=4NvoBXhtaV9AH1IAKdkIJtrlPsheDj6dWwme19Ii4PE
 
 
 
